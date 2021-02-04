@@ -1,0 +1,16 @@
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\obj\Debug\net5.0\Desafio.csprojAssemblyReference.cache
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\obj\Debug\net5.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\obj\Debug\net5.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\obj\Debug\net5.0\Desafio.AssemblyInfo.cs
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\obj\Debug\net5.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\bin\Debug\net5.0\Desafio.exe
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\bin\Debug\net5.0\Desafio.deps.json
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\bin\Debug\net5.0\Desafio.runtimeconfig.json
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\bin\Debug\net5.0\Desafio.runtimeconfig.dev.json
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\bin\Debug\net5.0\Desafio.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\bin\Debug\net5.0\ref\Desafio.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\bin\Debug\net5.0\Desafio.pdb
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\obj\Debug\net5.0\Desafio.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\obj\Debug\net5.0\ref\Desafio.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\obj\Debug\net5.0\Desafio.pdb
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\Desafio\obj\Debug\net5.0\Desafio.genruntimeconfig.cache
